@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sheniaks
-- 👀 I’m interested in web technologies.
-- 🌱 I’m currently learning frontend (html\css\js)
-- 💞️ I’m going to collaborate on different web projects in future.
 - 📫 @wotboost telegram
 
 <!---
